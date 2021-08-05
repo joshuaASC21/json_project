@@ -1,1 +1,19 @@
 /* Add your styling here: */
+
+body {
+    background-color: midnightblue;
+}
+
+#profiles{
+    background-color: rgb(12, 59, 59);
+}
+#profiles div {
+    border: 10px ridge rgb(4, 44, 32);
+    border-radius: 5px;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+h1 { 
+    text-align: center;
+}
